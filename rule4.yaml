@@ -1,7 +1,7 @@
 title: OC - GOAT
 id: 6991bc2b-ae2e-447f-bc55-4a1ba04c13e5
 status: experimental
-description: Detects instances where an FTP service on an OpenCanary node has had a login attempt.
+description: Detects instances where a GOAT service on an OpenCanary node has had a login attempt.
 references:
     - https://opencanary.readthedocs.io/en/latest/starting/configuration.html#services-configuration
     - https://github.com/thinkst/opencanary/blob/a0896adfcaf0328cfd5829fe10d2878c7445138e/opencanary/logger.py#L52
