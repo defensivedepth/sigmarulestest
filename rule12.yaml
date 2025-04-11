@@ -1,5 +1,5 @@
 id: 275aca19-ebe1-4cd6-9478-e8ba59933038
-status: test
+status: experimental
 description: Detects instances where an FTP service on an OpenCanary node has had a login attempt.
 references:
     - https://opencanary.readthedocs.io/en/latest/starting/configuration.html#services-configuration
